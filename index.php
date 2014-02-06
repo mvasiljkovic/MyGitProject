@@ -14,6 +14,8 @@ and open the template in the editor.
         <?php
         // put your code here
         echo date('d-m-Y');
+        echo '<br />';
+        echo time();
         ?>
     </body>
 </html>
