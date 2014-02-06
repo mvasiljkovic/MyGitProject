@@ -13,7 +13,7 @@ and open the template in the editor.
         <h1> My Git Project Index Page </h1>
         <?php
         // put your code here
-//        echo date('d-m-Y');
+        echo date('d-m-Y');
         ?>
     </body>
 </html>
